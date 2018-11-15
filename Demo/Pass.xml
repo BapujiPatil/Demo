@@ -1,0 +1,22 @@
+<Suite name="Ecommerce">
+<Test name="Sanity test">
+<Classes>
+<class name="Hello2"/>
+<class name="Hello"/>
+
+
+
+
+
+</Classes>
+
+
+
+
+</Test>
+
+
+
+
+
+</Suite>
